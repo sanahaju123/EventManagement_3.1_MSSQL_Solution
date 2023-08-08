@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagaement", "EventManagaement.csproj", "{43FEBBC6-0CFC-449F-97E8-705C04506E62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventManagement", "EventManagement.csproj", "{43FEBBC6-0CFC-449F-97E8-705C04506E62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagement.BusinessLayer", "..\EventManagement.BusinessLayer\EventManagement.BusinessLayer.csproj", "{8A22000B-12B4-4666-A78F-05DDD933FAA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventManagement.BusinessLayer", "..\EventManagement.BusinessLayer\EventManagement.BusinessLayer.csproj", "{8A22000B-12B4-4666-A78F-05DDD933FAA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagement.DataLayer", "..\EventManagement.DataLayer\EventManagement.DataLayer.csproj", "{F9C9C859-7A65-41AF-A667-18004B0686D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventManagement.DataLayer", "..\EventManagement.DataLayer\EventManagement.DataLayer.csproj", "{F9C9C859-7A65-41AF-A667-18004B0686D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagement.Entities", "..\EventManagement.Entities\EventManagement.Entities.csproj", "{2D392977-4028-4E9B-9918-C0F20A5789F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventManagement.Entities", "..\EventManagement.Entities\EventManagement.Entities.csproj", "{2D392977-4028-4E9B-9918-C0F20A5789F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagement.Tests", "..\EventManagement.Tests\EventManagement.Tests.csproj", "{F8100ACB-A6DC-47C4-A73A-7F174E1C73E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventManagement.Tests", "..\EventManagement.Tests\EventManagement.Tests.csproj", "{F8100ACB-A6DC-47C4-A73A-7F174E1C73E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
